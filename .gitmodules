@@ -1,0 +1,120 @@
+[submodule "Theme-Centurion"]
+	path = Theme-Centurion
+	url = https://github.com/allanhortle/Centurion.git
+[submodule "SideBarGit"]
+	path = SideBarGit
+	url = https://github.com/SublimeText/SideBarGit
+[submodule "SideBarEnhancements"]
+	path = SideBarEnhancements
+	url = https://github.com/titoBouzout/SideBarEnhancements
+[submodule "GitGutter"]
+	path = GitGutter
+	url = https://github.com/jisaacks/GitGutter
+[submodule "Git"]
+	path = Git
+	url = https://github.com/kemayo/sublime-text-2-git
+[submodule "Gist"]
+	path = Gist
+	url = https://github.com/condemil/Gist
+[submodule "Nodejs"]
+	path = Nodejs
+	url = https://github.com/tanepiper/SublimeText-Nodejs
+[submodule "MarkdownPreview"]
+	path = MarkdownPreview
+	url = https://github.com/revolunet/sublimetext-markdown-preview
+[submodule "Linter"]
+	path = Linter
+	url = https://github.com/SublimeLinter/SublimeLinter
+[submodule "BracketHighlighter"]
+	path = BracketHighlighter
+	url = https://github.com/facelessuser/BracketHighlighter
+[submodule "Autobackups"]
+	path = Autobackups
+	url = https://github.com/akalongman/sublimetext-autobackups
+[submodule "Marked"]
+	path = Marked
+	url = https://github.com/jocelynmallon/sublime-text-2-marked
+[submodule "jssnippets"]
+	path = jssnippets
+	url = https://github.com/jprichardson/sublime-js-snippets
+[submodule "AutoFileName"]
+	path = AutoFileName
+	url = https://github.com/BoundInCode/AutoFileName
+[submodule "FileDiffs"]
+	path = FileDiffs
+	url = https://github.com/spape/SublimeFileDiffs
+[submodule "JavaScriptAPICompletions"]
+	path = JavaScriptAPICompletions
+	url = https://github.com/Pleasurazy/Sublime-JavaScript-API-Completions
+[submodule "AdvancedNewFile"]
+	path = AdvancedNewFile
+	url = https://github.com/skuroda/Sublime-AdvancedNewFile
+[submodule "LESS"]
+	path = LESS
+	url = https://github.com/danro/LESS-sublime
+[submodule "JsFormat"]
+	path = JsFormat
+	url = https://github.com/jdc0589/JsFormat
+[submodule "HTML5"]
+	path = HTML5
+	url = https://github.com/mrmartineau/HTML5
+[submodule "CodeIntel"]
+	path = CodeIntel
+	url = https://github.com/SublimeCodeIntel/SublimeCodeIntel
+[submodule "BootstrapSnippets"]
+	path = BootstrapSnippets
+	url = https://github.com/devtellect/sublime-twitter-bootstrap-snippets
+[submodule "Placeholders"]
+	path = Placeholders
+	url = https://github.com/mrmartineau/Placeholders
+[submodule "CSS-Snippets"]
+	path = CSS-Snippets
+	url = https://github.com/joshnh/CSS-Snippets
+[submodule "ColorPicker"]
+	path = ColorPicker
+	url = https://github.com/weslly/ColorPicker
+[submodule "JSHint"]
+	path = JSHint
+	url = https://github.com/victorporof/Sublime-JSHint
+[submodule "Guard"]
+	path = Guard
+	url = https://github.com/cyphactor/sublime_guard
+[submodule "Github"]
+	path = Github
+	url = https://github.com/bgreenlee/sublime-github
+[submodule "AngularJs"]
+	path = AngularJs
+	url = https://github.com/angular-ui/AngularJS-sublime-package
+[submodule "Alignment"]
+	path = Alignment
+	url = https://github.com/wbond/sublime_alignment
+[submodule "bootstrap3-plugin"]
+	path = bootstrap3-plugin
+	url = https://github.com/JasonMortonNZ/bs3-sublime-plugin
+[submodule "js-beautify"]
+	path = js-beautify
+	url = https://github.com/enginespot/js-beautify-sublime
+[submodule "js-patterns-snippets"]
+	path = js-patterns-snippets
+	url = https://github.com/caiogondim/js-patterns-sublime-snippets
+[submodule "Request"]
+	path = Request
+	url = https://github.com/twolfson/sublime-request
+[submodule "List2CSV"]
+	path = List2CSV
+	url = https://github.com/avinash8526/List2CSV-Sublime-Plugin
+[submodule "ChaplinJs"]
+	path = ChaplinJs
+	url = https://github.com/joneshf/sublime-chaplinjs
+[submodule "RubyTests"]
+	path = RubyTests
+	url = https://github.com/maltize/sublime-text-2-ruby-tests
+[submodule "ViewInBrowser"]
+	path = ViewInBrowser
+	url = https://github.com/adampresley/sublime-view-in-browser
+[submodule "RubyRevertHash"]
+	path = RubyRevertHash
+	url = https://github.com/kyamaguchi/sublime-text-2-revert-hash-syntax
+[submodule "SmartDelete"]
+	path = SmartDelete
+	url = https://github.com/mac2000/sublime-smart-delete
