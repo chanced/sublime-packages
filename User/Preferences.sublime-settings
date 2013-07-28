@@ -1,0 +1,19 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - tomorrow/Tomorrow-Night-Eighties.tmTheme",
+	"font_size": 13,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"ruby": "~/.rbenv/shims/ruby",
+	"tab_size": 2,
+	"theme": "Centurion.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_wrap": false
+}
