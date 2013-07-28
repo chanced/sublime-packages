@@ -1,6 +1,3 @@
-[submodule "Theme-Centurion"]
-	path = Theme-Centurion
-	url = https://github.com/allanhortle/Centurion
 [submodule "SideBarGit"]
 	path = SideBarGit
 	url = https://github.com/SublimeText/SideBarGit
@@ -106,9 +103,6 @@
 [submodule "ChaplinJs"]
 	path = ChaplinJs
 	url = https://github.com/joneshf/sublime-chaplinjs
-[submodule "RubyTests"]
-	path = RubyTests
-	url = https://github.com/maltize/sublime-text-2-ruby-tests
 [submodule "ViewInBrowser"]
 	path = ViewInBrowser
 	url = https://github.com/adampresley/sublime-view-in-browser
@@ -118,3 +112,9 @@
 [submodule "SmartDelete"]
 	path = SmartDelete
 	url = https://github.com/mac2000/sublime-smart-delete
+[submodule "Theme - Centurion"]
+	path = Theme - Centurion
+	url = https://github.com/allanhortle/Centurion
+[submodule "Theme - Tomorrow"]
+	path = Theme - Tomorrow
+	url = https://github.com/theymaybecoders/sublime-tomorrow-theme
