@@ -127,3 +127,6 @@
 [submodule "SublimeRailsNav"]
 	path = SublimeRailsNav
 	url = https://github.com/noklesta/SublimeRailsNav
+[submodule "railsdev-sublime-snippets"]
+	path = railsdev-sublime-snippets
+	url = https://github.com/j10io/railsdev-sublime-snippets
