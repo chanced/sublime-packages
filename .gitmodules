@@ -118,3 +118,12 @@
 [submodule "Theme - Tomorrow"]
 	path = Theme - Tomorrow
 	url = https://github.com/theymaybecoders/sublime-tomorrow-theme
+[submodule "rails-partial"]
+	path = rails-partial
+	url = https://github.com/wesf90/rails-partial
+[submodule "ApplySyntax"]
+	path = ApplySyntax
+	url = https://github.com/facelessuser/ApplySyntax
+[submodule "SublimeRailsNav"]
+	path = SublimeRailsNav
+	url = https://github.com/noklesta/SublimeRailsNav
